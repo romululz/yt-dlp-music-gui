@@ -61,4 +61,4 @@ sudo rm -f "/usr/local/share/icons/hicolor/512x512/apps/yt-dlp-music.png"
 You can launch in terminal with ```yt-dlp-music-gui```.
 Or use whatever application launcher you have installed.
 Music will download to ~/Music/ in FLAC format and relevant metadata will be imported (including cover art). 
-See yt-dlp-music [usage](https://github.com/romululz/yt-dlp-music/tree/main?tab=readme-ov-file#usage) for instructions.
+See yt-dlp-music [usage](https://github.com/romululz/yt-dlp-music/tree/main?tab=readme-ov-file#usage) for further.
