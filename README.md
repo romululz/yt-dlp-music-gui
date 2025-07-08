@@ -9,8 +9,14 @@ GUI frontend for [yt-dlp-music](https://github.com/romululz/yt-dlp-music) using 
 
 ### Dependencies
 
+Arch
 ```
 sudo pacman -Sy yt-dlp ffmpeg python-mutagen zenity git base-devel
+```
+
+Fedora
+```
+sudo dnf install yt-dlp ffmpeg python3-mutagen zenity git @development-tools
 ```
 
 ### Installation
