@@ -2,6 +2,10 @@
 
 GUI frontend for [yt-dlp-music](https://github.com/romululz/yt-dlp-music) using [Zenity](https://github.com/GNOME/zenity)
 
+
+![tuttut](https://github.com/user-attachments/assets/ec871cbe-356d-4d9c-9f11-b4be1c581cf8)
+
+
 ### Dependencies
 
 ```
