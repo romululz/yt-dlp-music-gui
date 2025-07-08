@@ -2,7 +2,7 @@
 
 
 url=$(zenity --entry \
-    --title="yt-dlp Music GUI" \
+    --title="yt-dlp-music GUI" \
     --text="Enter URL:")
 
 [ -z "$url" ] && exit 0
@@ -20,7 +20,7 @@ logfile=$(mktemp --suffix=.ytlog)
     yt-dlp-music "$url" < /dev/null &> "$logfile"
     echo "100"
 ) | zenity --progress \
-    --title="yt-dlp Music GUI" \
+    --title="yt-dlp-music GUI" \
     --text="Downloading..." \
     --pulsate \
     --auto-close \
@@ -29,7 +29,7 @@ logfile=$(mktemp --suffix=.ytlog)
 
 
 zenity --question \
-    --title="yt-dlp Music GUI" \
+    --title="yt-dlp-music GUI" \
     --text="Download complete." \
     --ok-label="Log" \
     --cancel-label="Close"
@@ -37,7 +37,7 @@ zenity --question \
 
 if [ $? -eq 0 ]; then
     zenity --text-info \
-        --title="yt-dlp Music GUI log" \
+        --title="yt-dlp-music GUI" \
         --filename="$logfile" \
         --width=800 \
         --height=500
