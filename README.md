@@ -11,12 +11,17 @@ GUI frontend for [yt-dlp-music](https://github.com/romululz/yt-dlp-music) using 
 
 Arch
 ```
-sudo pacman -S yt-dlp ffmpeg python-mutagen git wget imagemagick flac
+sudo pacman -Sy yt-dlp ffmpeg python-mutagen zenity base-devel imagemagick flac wget git
 ```
 
 Fedora
 ```
-sudo dnf install yt-dlp ffmpeg python3-mutagen zenity git @development-tools
+sudo dnf install -y yt-dlp ffmpeg python3-mutagen zenity @development-tools ImageMagick flac wget git
+```
+
+Ubuntu / Debian / Linux Mint
+```
+sudo apt install -y yt-dlp ffmpeg python3-mutagen zenity build-essential imagemagick flac wget git
 ```
 
 ### Installation
