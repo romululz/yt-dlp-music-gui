@@ -3,6 +3,7 @@
 GUI frontend for [yt-dlp-music](https://github.com/romululz/yt-dlp-music) using [Zenity](https://github.com/GNOME/zenity)
 
 
+![e2e1](https://github.com/user-attachments/assets/cb9af45d-fcf7-4723-a4ae-73fab053f366)
 
 
 
