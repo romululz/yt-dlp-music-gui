@@ -13,7 +13,7 @@ GUI frontend for [yt-dlp-music](https://github.com/romululz/yt-dlp-music) using 
 sudo pacman -Sy yt-dlp ffmpeg python-mutagen zenity git base-devel
 ```
 
-### Manual Installation
+### Installation
 
 Open terminal
 ```
