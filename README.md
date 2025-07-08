@@ -37,6 +37,14 @@ sudo make install
 sudo make uninstall
 ```
 
+or
+
+```
+rm -f "/usr/local/bin/yt-dlp-music-gui"
+rm -f "/usr/local/bin/yt-dlp-music"
+rm -f "/usr/local/share/applications/yt-dlp-music.desktop"
+rm -f "/usr/local/share/icons/hicolor/512x512/apps/yt-dlp-music.png"
+```
 
 ### Usage
 You can launch in terminal with ```yt-dlp-music-gui```.
