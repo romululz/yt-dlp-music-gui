@@ -1,6 +1,6 @@
 ## yt-dlp-music-gui
 
-GUI frontend for [link to yt-dlp-music] using Zenity
+GUI frontend for [yt-dlp-music](https://github.com/romululz/yt-dlp-music) using Zenity
 
 ### Dependencies
 
@@ -12,7 +12,7 @@ sudo pacman -Sy yt-dlp ffmpeg python-mutagen zenity git base-devel
 
 Open terminal
 ```
-git clone https://github.com/YOURNAME/yt-dlp-music-gui.git
+git clone https://github.com/romululz/yt-dlp-music-gui.git
 ```
 
 ```
