@@ -34,7 +34,7 @@ sudo make uninstall
 
 
 ### Usage
-You can open in terminal with```yt-dlp-music-gui```
+You can launch in terminal with ```yt-dlp-music-gui```.
 Or use whatever application launcher you have installed.
 Music will download to ~/Music/ in FLAC format and relevant metadata will be imported (including cover art). 
 See yt-dlp-muisc [usage](https://github.com/romululz/yt-dlp-music) for instructions.
