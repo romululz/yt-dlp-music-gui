@@ -1,6 +1,6 @@
 ## yt-dlp-music-gui
 
-GUI frontend for [yt-dlp-music](https://github.com/romululz/yt-dlp-music) using Zenity
+GUI frontend for [yt-dlp-music](https://github.com/romululz/yt-dlp-music) using [Zenity](https://github.com/GNOME/zenity)
 
 ### Dependencies
 
