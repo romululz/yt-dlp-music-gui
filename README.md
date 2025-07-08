@@ -11,7 +11,7 @@ GUI frontend for [yt-dlp-music](https://github.com/romululz/yt-dlp-music) using 
 
 Arch
 ```
-sudo pacman -Sy yt-dlp ffmpeg python-mutagen zenity git base-devel
+sudo pacman -S yt-dlp ffmpeg python-mutagen git wget imagemagick flac
 ```
 
 Fedora
