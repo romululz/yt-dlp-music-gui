@@ -40,10 +40,10 @@ sudo make uninstall
 or
 
 ```
-rm -f "/usr/local/bin/yt-dlp-music-gui"
-rm -f "/usr/local/bin/yt-dlp-music"
-rm -f "/usr/local/share/applications/yt-dlp-music.desktop"
-rm -f "/usr/local/share/icons/hicolor/512x512/apps/yt-dlp-music.png"
+sudo rm -f "/usr/local/bin/yt-dlp-music-gui"
+sudo rm -f "/usr/local/bin/yt-dlp-music"
+sudo rm -f "/usr/local/share/applications/yt-dlp-music.desktop"
+sudo rm -f "/usr/local/share/icons/hicolor/512x512/apps/yt-dlp-music.png"
 ```
 
 ### Usage
