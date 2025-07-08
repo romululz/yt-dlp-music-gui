@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=yt-dlp Music GUI
-Comment=yt-dlp GUI frontend for downloading music in FLAC format
+Name=yt-dlp-music GUI
+Comment=yt-dlp-music GUI frontend
 Exec=yt-dlp-music-gui
 Icon=yt-dlp-music
 Terminal=false
