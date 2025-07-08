@@ -19,7 +19,7 @@ Fedora
 sudo dnf install -y yt-dlp ffmpeg python3-mutagen zenity @development-tools ImageMagick flac wget git
 ```
 
-Ubuntu / Debian / Linux Mint
+Ubuntu / Mint / Debian 
 ```
 sudo apt install -y yt-dlp ffmpeg python3-mutagen zenity build-essential imagemagick flac wget git
 ```
